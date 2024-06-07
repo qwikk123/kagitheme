@@ -84,4 +84,5 @@ html.theme_moon_dark > body {
 
 .__sri_title_link:visited:hover {
   color: mediumorchid;
+  border-bottom: 1px solid mediumorchid;
 }
